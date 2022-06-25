@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.ustvgo" name="USTVGO" version="1.0.0" provider-name="Tw1zT3d247's Dev Team">
+    <extension point="xbmc.addon.repository" name="Tw1zT3d247.github.io">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/TwizT3d247/Tw1zT3d247.github.io/master/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/Tw1zT3d247//Tw1zT3d247.github.io/master/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/Tw1zT3d247//Tw1zT3d247.github.io/master/repo/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Tw1zT3d247.github.io</summary>
+        <description>USTVGO 97 channels with use of a vpn and 69 without a vpn...comes complete with epg data</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
