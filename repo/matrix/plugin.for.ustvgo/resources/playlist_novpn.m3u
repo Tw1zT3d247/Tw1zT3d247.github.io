@@ -135,5 +135,7 @@ plugin://plugin.video.ustvgo/?action=play&video=TVLand
 plugin://plugin.video.ustvgo/?action=play&video=TWC
 #EXTINF:-1 tvg-id="9233003770" tvg-name="We TV " tvg-logo="https://raw.githubusercontent.com/Tw1zT3d247/myepg/master/Logos/we-tv-us.png" group-title="USTVGO",We TV 
 plugin://plugin.video.ustvgo/?action=play&video=WETV
+#EXTINF:-1 tvg-id="WWE" group-title="ustvgo" tvg-logo="https://i.imgur.com/VJoF3bh.png" group-title="USTVGO" ,WWE Network
+plugin://plugin.video.ustvgo/?action=play&video=WWE
 #EXTINF:-1 tvg-id="9200004247" tvg-name="YES Network " tvg-logo="https://raw.githubusercontent.com/Tw1zT3d247/myepg/master/Logos/yes-network-us.png" group-title="USTVGO",YES Network 
 plugin://plugin.video.ustvgo/?action=play&video=YES
